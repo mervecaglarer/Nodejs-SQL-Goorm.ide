@@ -1,4 +1,4 @@
-** JoinUs app with Nodejs and SQL
+# JoinUs app with Nodejs and SQL
 
 ## Requirements
 
@@ -9,7 +9,7 @@ To run the app, you need:
 * Mysql
 * Express
 
-## We are using [Groom.ide](https://ide.goorm.io/) for this project
+## We are using [Groom.ide](https://ide.goorm.io/) for this project.
 
 ### 1. Create a new container (Package is Node.js) 
 
@@ -29,16 +29,15 @@ To run the app, you need:
 
 ### 7. Create a new URL and Port
 
--Open Project > Running URL and Port
---Insert URL(must be unique): goorm-ide-test-merve
---Insert Port: 3000
+#### Open Project > Running URL and Port
+#### Insert URL(must be unique): goorm-ide-test-merve
+#### Insert Port: 3000
 
 ### 8. Run the app.js
 
-root@goorm:/workspace/MySQL# cd JoinUs/
-root@goorm:/workspace/MySQL/JoinUs# node app.js
-Server is listening on port 3000
-
+#### root@goorm:/workspace/MySQL# cd JoinUs/
+#### root@goorm:/workspace/MySQL/JoinUs# node app.js
+#### Server is listening on port 3000
 
 
 ### 9. Open your URL 
